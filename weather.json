@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "Kokand",
+        "region": "Farghona",
+        "country": "Uzbekistan",
+        "lat": 40.5286,
+        "lon": 70.9425,
+        "tz_id": "Asia/Tashkent",
+        "localtime_epoch": 1738419151,
+        "localtime": "2025-02-01 19:12"
+    },
+    "current": {
+        "last_updated_epoch": 1738418400,
+        "last_updated": "2025-02-01 19:00",
+        "temp_c": 4.5,
+        "temp_f": 40.1,
+        "is_day": 0,
+        "condition": {
+            "text": "Clear",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+            "code": 1000
+        },
+        "wind_mph": 2.2,
+        "wind_kph": 3.6,
+        "wind_degree": 92,
+        "wind_dir": "E",
+        "pressure_mb": 1031.0,
+        "pressure_in": 30.45,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 45,
+        "cloud": 3,
+        "feelslike_c": 4.5,
+        "feelslike_f": 40.1,
+        "windchill_c": 4.5,
+        "windchill_f": 40.1,
+        "heatindex_c": 4.5,
+        "heatindex_f": 40.1,
+        "dewpoint_c": -6.5,
+        "dewpoint_f": 20.4,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.0,
+        "gust_mph": 2.7,
+        "gust_kph": 4.3
+    }
+}
